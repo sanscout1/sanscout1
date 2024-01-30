@@ -26,6 +26,9 @@
     <a href="https://velog.io/@sanscout/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
+    <a href="https://github.com/sanscout1/HRiverStudy">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+    </a>
 
 </div><br>
 

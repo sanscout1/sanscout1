@@ -13,6 +13,11 @@
  
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanscout)](https://solved.ac/sanscout/)
+
+
+<br>
+
 ## 💻 DEV's log 💻
 <!--div style="display:flex; flex-direction:row;">
     <a href="https://bi-sz.github.io/portfolio/">

@@ -1,109 +1,83 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+# Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+HRiver's+GitHub!👋)](https://git.io/typing-svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=sanscout1&color=6994cd)
-
-![HRiver's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanscout1&show_icons=true&theme=tokyonight)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanscout)](https://solved.ac/sanscout/)
+**Full-Stack Developer** | 사내 도구 및 자동화 시스템 개발자
 
 ---
 
-## ✨ About Me
-- 🔍 Passionate about **backend development**, **AI automation**, and **efficient workflows**
-- 🧠 Currently building:  
-  1. GPT 기반 **신입사원용 사내 매뉴얼 챗봇**  
-  2. Outlook 메일 기반 **자동 요약 시스템**  
-- 🌱 Enjoys solving practical problems with creative code  
+## Tech Stack
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### AI & Integration
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/KakaoTalk_API-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💻 DEV's log
-<a href="https://velog.io/@sanscout/posts">
-  <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white">
-</a>
-<a href="https://github.com/sanscout1/HRiverStudy">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## Projects
+
+### 🎯 Vibe Coding Helper
+비전공자를 위한 AI 기반 개발 프롬프트 생성 도구
+`Vue 3` `FastAPI` `OpenAI API` `Docker`
+- 3단계 위자드 (기획자 → 디자이너 → 개발자)
+- GPT-4.1-mini 기반 프롬프트 자동 생성
+- ChatGPT에 바로 붙여넣을 수 있는 전문적인 개발 요청 프롬프트 출력
+
+### 📊 Unified Dashboard
+사내 서비스 통합 관리 대시보드
+`Vue 3` `FastAPI` `SQLite` `Docker`
+- 멀티 서비스 모니터링
+- 관리자 권한 시스템
+- 이미지 업로드 지원 서비스 카드
+
+### 📰 Daily News Kakao
+일일 뉴스 카카오톡 자동 발송 시스템
+`Python` `KakaoTalk API` `n8n`
+- 키워드 기반 뉴스 크롤링
+- 자동 요약 및 카카오톡 발송
+
+### 🏭 Metal Daily Report
+금속 시장 일일 보고서 자동화
+`Python` `Web Scraping`
+- 구리 뉴스, 경제 지표, 선물 가격 수집
+- 자동 리포트 생성
+
+### 🌍 Carbon Tariff Dashboard
+탄소 관세 대시보드
+`Vue.js` `Python`
+
+### ⚖️ Legal Check
+법적 검토 시스템
+`Python`
 
 ---
 
-## 📞 Contact
-<a href="mailto:hanmaum4930@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
-<a href="mailto:sanscout@naver.com">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-</a>
+## About Me
+
+업무 자동화와 사내 도구 개발에 관심이 많습니다.
+비전공자도 쉽게 사용할 수 있는 직관적인 도구를 만드는 것을 좋아합니다.
 
 ---
 
-## 🔨 Tech Stack
+<!-- solved.ac 섹션 (비활성화)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_id)](https://solved.ac/your_id/)
+-->
 
-<details>
-<summary><strong>🖥 Frontend</strong></summary>
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-</div>
-</details>
-
-<details>
-<summary><strong>🔧 Backend</strong></summary>
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square">
-  <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=data&logoColor=white">
-  <img src="https://img.shields.io/badge/jOOQ-3D8F91?style=flat-square">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/GPT%20API-10A37F?style=flat-square">
-</div>
-</details>
-
-<details>
-<summary><strong>🗃️ Database</strong></summary>
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-</div>
-</details>
-
-<details>
-<summary><strong>☁️ DevOps & Cloud</strong></summary>
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-</div>
-</details>
-
-<details>
-<summary><strong>🛠️ Tools</strong></summary>
-<div>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/PyInstaller-3670A0?style=flat-square">
-</div>
-</details>
-
-<details>
-<summary><strong>🗂️ Communication & Docs</strong></summary>
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white">
-</div>
-</details>
+<!-- DEV's log 섹션 (비활성화)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your_id)
+-->
